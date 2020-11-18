@@ -20,3 +20,4 @@ Creates MCPE Alts for when you get banned on servers! (Or you can use it as a Mi
   ```
   Geckodriver.exe is what gets used to automate the Firefox browser. It's a webdriver used with selenium.
   ```
+ Something to note: The alts all get saved in a file the bot creates called logins.txt. It will be created in the same directory that you have altcreator.py in.
