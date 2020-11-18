@@ -2,7 +2,7 @@
 Creates MCPE Alts for when you get banned on servers! (Or you can use it as a Microsoft account alt creator)
   # How to use?
   1. Install Firefox (https://www.mozilla.org/en-US/firefox/new/)
-  2. Install Python and pip (https://docs.python-guide.org/starting/installation/#installation-guides and https://pip.pypa.io/en/stable/installing/#upgrading-pip)
+  2. Install Python and pip (https://www.python.org/downloads/ and https://pip.pypa.io/en/stable/installing/#upgrading-pip)
   3. Install selenium
      ```
      pip install selenium (in a command prompt)
